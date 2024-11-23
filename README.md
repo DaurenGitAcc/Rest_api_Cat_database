@@ -13,6 +13,8 @@
 
 # <img src="https://github.com/DaurenGitAcc/Rest_api_Cat_database/blob/main/screenshots/Снимок1.PNG" width=80% height=80%>
 <br/>
+# <img src="https://github.com/DaurenGitAcc/Rest_api_Cat_database/blob/main/screenshots/Сним2_2.PNG" width=80% height=80%>
+<br/>
 # <img src="https://github.com/DaurenGitAcc/Rest_api_Cat_database/blob/main/screenshots/Снимок2.PNG" width=80% height=80%>
 <br/>
 # <img src="https://github.com/DaurenGitAcc/Rest_api_Cat_database/blob/main/screenshots/Снимок3.PNG" width=80% height=80%>
